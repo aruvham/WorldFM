@@ -14,7 +14,7 @@ Easily navigate the website using our responsive, mobile-friendly user interface
 
 Thanks to our web worker, new music is being added each week to our ever-growing library
 
-* [Check it out!]
+Not currently live
 
 ![Gif of application](src/public/assets/WorldFM.gif)
 
